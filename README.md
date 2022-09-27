@@ -2,7 +2,7 @@
 
 Esta es una solución al [desafío del componente de código QR de Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Screenshot
+## Vista Previa
 
 ![Preview](./public/preview.png)
 
