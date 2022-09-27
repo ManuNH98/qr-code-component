@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background: hsl(212deg 45% 89%);
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background: hsl(0deg 0% 100%);
+  border-radius: 4%;
+  padding: 15px;
+  max-width: 250px;
+}
+
+img {
+  border-radius: 3%;
+  width: 250px;
+}
+
+h1 {
+  font-size: 1.2rem;
+  color: hsl(218deg 44% 22%);
+}
+
+p {
+  color: hsl(220deg 15% 55%);
+}
